@@ -3,20 +3,29 @@ body
   background-color: #1275D1;
   margin: 0;
 }
-.name
-{
-  color: aliceblue;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
 }
-.headerBackground
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+}
+.btnRight
 {
-  padding: 20px;
-  text-align: left;
-  font-size: 10px;
-  background: #6F7981;
-  height: 5%;
-  -webkit-box-shadow: 7px 13px 24px 1px rgba(0,0,0,0.75);
-  -moz-box-shadow: 7px 13px 24px 1px rgba(0,0,0,0.75);
-  box-shadow: 7px 13px 24px 1px rgba(0,0,0,0.75);
+right: 90%;
 }
 h1,
 p {

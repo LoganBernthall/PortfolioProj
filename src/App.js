@@ -1,15 +1,17 @@
 import React from "react";
 import "./style.css";
-import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
-import Navbar from 'react-bootstrap/Navbar';
+
 
 export default function App() {
   return (
-    <div class="headerBackground">
-      <div class="headerContent">
-        <h1 class="name"><b>Logan Elliottt Bernthall</b></h1>
-      </div>
+    <div>
+        <ul>
+        <li><a class="active" href="#home">Logan Elliott Bernthall</a></li>
+        <li><a href="#news" class="btnRight">News</a></li>
+        <li><a href="#contact" class="btnRight">Contact</a></li>
+        <li><a href="#about" class="btnRight">About</a></li>
+        </ul>     
     </div>
+   
   );
 }
