@@ -39,6 +39,8 @@ export default function App() {
           class="locationPin"
         />
         <span class="locationText"> London, United Kindgom </span>
+        <img src="https://stackblitz.com/files/react-ewga1h/github/LoganBernthall/PortfolioProj/main/src/images/book-literature-icon.png" class="bookIcon" alt="Book"/>
+        <span class="bookText"> University Of West London</span>
         </div>
       </div>
     </div>

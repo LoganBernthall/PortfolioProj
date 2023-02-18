@@ -70,5 +70,20 @@ p {
   font-size: 1.25rem;
   word-wrap:break-word;
   line-height: 1.6;
-  
+}
+.bookIcon
+{
+  left: 5%;
+  width: 10%;
+  top: 45%;
+  position: absolute;
+}
+.bookText
+{
+  left: 20%;
+  top: 45%;
+  position: absolute;
+  font-size: 1.25rem;
+  word-wrap:break-word;
+  line-height: 1.6;
 }
