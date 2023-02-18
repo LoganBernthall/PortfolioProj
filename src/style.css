@@ -40,5 +40,16 @@ p {
   width: 35%;
   background-color: #555;
   border-radius: 8px;
+  position: relative;
   
+}
+.portfolioImage
+{
+  margin: 0;
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 50%;
 }
