@@ -27,7 +27,14 @@ export default function App() {
         </li>
       </ul>
       <div class="boxLeft">
-        <img src="https://stackblitz.com/files/react-ewga1h/github/LoganBernthall/PortfolioProj/main/src/images/picture.jfif" alt="Picture of me" class="portfolioImage"/>
+        <img
+          src="https://stackblitz.com/files/react-ewga1h/github/LoganBernthall/PortfolioProj/main/src/images/picture.jfif"
+          alt="Picture of me"
+          class="portfolioImage"
+        />
+        <div class="leftBoxInfo">
+          
+        </div>
       </div>
     </div>
   );

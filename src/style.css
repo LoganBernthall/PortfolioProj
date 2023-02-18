@@ -45,6 +45,7 @@ p {
 }
 .portfolioImage
 {
+  border-radius: 80px;
   margin: 0;
   position: absolute;
   top: 15%;
