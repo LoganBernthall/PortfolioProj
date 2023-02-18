@@ -33,7 +33,11 @@ export default function App() {
           class="portfolioImage"
         />
         <div class="leftBoxInfo">
-          
+        <img
+          src="./src/images/pushpin-icon.png"
+          alt="Location pin"
+          class=""
+        />
         </div>
       </div>
     </div>
