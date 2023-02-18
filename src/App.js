@@ -34,10 +34,11 @@ export default function App() {
         />
         <div class="leftBoxInfo">
         <img
-          src="./src/images/pushpin-icon.png"
+          src="https://stackblitz.com/files/react-ewga1h/github/LoganBernthall/PortfolioProj/main/src/images/pushpin-icon.png"
           alt="Location pin"
-          class=""
+          class="locationPin"
         />
+        <span class="locationText"> London, United Kindgom </span>
         </div>
       </div>
     </div>

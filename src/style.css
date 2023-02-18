@@ -2,6 +2,7 @@ body
 {
   background-color: #1275D1;
   margin: 0;
+  font-family: Georgia, serif;
 }
 ul {
   list-style-type: none;
@@ -53,4 +54,21 @@ p {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   width: 50%;
+}
+.locationPin
+{
+  left: 5%;
+  width: 10%;
+  top: 34%;
+  position: absolute;
+}
+.locationText
+{
+  left: 20%;
+  top: 34%;
+  position: absolute;
+  font-size: 1.25rem;
+  word-wrap:break-word;
+  line-height: 1.6;
+  
 }
