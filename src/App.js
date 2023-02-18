@@ -4,6 +4,7 @@ import './style.css';
 export default function App() {
   return (
     <div>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
       <ul>
         <li>
           <a class="active" href="#home">
@@ -41,6 +42,8 @@ export default function App() {
         <span class="locationText"> London, United Kindgom </span>
         <img src="https://stackblitz.com/files/react-ewga1h/github/LoganBernthall/PortfolioProj/main/src/images/book-literature-icon.png" class="bookIcon" alt="Book"/>
         <span class="bookText"> University Of West London</span>
+        <img src="https://stackblitz.com/files/react-ewga1h/github/LoganBernthall/PortfolioProj/main/src/images/email-address-icon.png" class="emailIcon" alt="Email Icon" />
+        <span class="emailText">21571598@student.uwl.ac.uk</span>
         </div>
       </div>
     </div>

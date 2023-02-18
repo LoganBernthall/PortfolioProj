@@ -37,11 +37,11 @@ p {
 {
   
   margin: 3%;
-  height: 700px;
+  height: 40%;
   width: 35%;
   background-color: #555;
   border-radius: 8px;
-  position: relative;
+  position: absolute;
   
 }
 .portfolioImage
@@ -59,13 +59,13 @@ p {
 {
   left: 5%;
   width: 10%;
-  top: 34%;
+  top: 45%;
   position: absolute;
 }
 .locationText
 {
   left: 20%;
-  top: 34%;
+  top: 45%;
   position: absolute;
   font-size: 1.25rem;
   word-wrap:break-word;
@@ -75,13 +75,29 @@ p {
 {
   left: 5%;
   width: 10%;
-  top: 45%;
+  top: 60%;
   position: absolute;
 }
 .bookText
 {
   left: 20%;
-  top: 45%;
+  top: 60%;
+  position: absolute;
+  font-size: 1.25rem;
+  word-wrap:break-word;
+  line-height: 1.6;
+}
+.emailIcon
+{
+  left: 5%;
+  width: 10%;
+  top: 75%;
+  position: absolute;
+}
+.emailText
+{
+  left: 20%;
+  top: 75%;
   position: absolute;
   font-size: 1.25rem;
   word-wrap:break-word;
