@@ -27,7 +27,7 @@ export default function App() {
         </li>
       </ul>
       <div class="boxLeft">
-        <img src="picture.jfif" alt="Picture of me"/>
+        <img src="./images/picture.jfif" alt="Picture of me"/>
       </div>
     </div>
   );
