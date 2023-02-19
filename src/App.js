@@ -46,6 +46,9 @@ export default function App() {
         <span class="emailText">21571598@student.uwl.ac.uk</span>
         </div>
       </div>
+      <div class="boxRight">
+      <span class="nameTitle"> Hi, I'm Logan! </span>
+      </div>
     </div>
   );
 }
