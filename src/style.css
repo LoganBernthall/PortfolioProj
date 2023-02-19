@@ -3,6 +3,8 @@ body
   background-color: #1275D1;
   margin: 0;
   font-family: Georgia, serif;
+  height: 100%;
+  overflow: hidden;
 }
 ul {
   list-style-type: none;

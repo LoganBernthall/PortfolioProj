@@ -13,17 +13,17 @@ export default function App() {
         </li>
         <li>
           <a href="#news" class="btnRight">
-            News
+            Education
           </a>
         </li>
         <li>
           <a href="#contact" class="btnRight">
-            Contact
+            Work Experience
           </a>
         </li>
         <li>
           <a href="#about" class="btnRight">
-            About
+            Contact
           </a>
         </li>
       </ul>
