@@ -123,3 +123,13 @@ p {
   word-wrap:break-word;
   line-height: 1.6;
 }
+.nameBlurb
+{
+  margin: 5px;
+  left: 2%;
+  top: 100px;
+  position: absolute;
+  font-size: 1.25rem;
+  word-wrap:break-word;
+  line-height: 1.6;
+}
