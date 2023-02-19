@@ -133,3 +133,32 @@ p {
   word-wrap:break-word;
   line-height: 1.6;
 }
+.boxBlurb
+{
+  left: 450px;
+  top: 500px;
+  margin: 3%;
+  height: 175px;
+  width: 1000px;
+  background-color: #555;
+  border-radius: 8px;
+  position: absolute;
+}
+.blurbTitle
+{
+  left: 2%;
+  position: absolute;
+  font-size: 2.25rem;
+  word-wrap:break-word;
+  line-height: 1.6;
+}
+.nutshellBlurb
+{
+  margin: 5px;
+  left: 1.7%;
+  top: 40px;
+  position: absolute;
+  font-size: 1.25rem;
+  word-wrap:break-word;
+  line-height: 1.6;
+}
