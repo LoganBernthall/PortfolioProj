@@ -55,7 +55,10 @@ export default function App() {
       <span class="blurbTitle"> In a nutshell... </span>
       <span class="nutshellBlurb"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. do eiusmod tempor incididunt ut labore et dolore magna aliqua. do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
      </span>
-      </div>
+     </div>
+     <div class="quickLinksBox">
+      <span class="linksTitle"> Quick Links </span>
+     </div>
     </div>
   );
 }

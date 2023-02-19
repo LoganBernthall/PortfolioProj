@@ -162,3 +162,23 @@ p {
   word-wrap:break-word;
   line-height: 1.6;
 }
+.quickLinksBox
+{
+  top: 500px;
+  margin: 3%;
+  height: 175px;
+  width: 400px;
+  background-color: #555;
+  border-radius: 8px;
+  position: absolute;
+}
+.linksTitle
+{
+  
+  margin: 10px;
+  left: 2%;
+  position: center;
+  font-size: 1.25rem;
+  word-wrap:break-word;
+  line-height: 1.6;
+}
