@@ -53,6 +53,7 @@ export default function App() {
       </div>
       <div class="boxBlurb">
       <span class="blurbTitle"> In a nutshell... </span>
+      
       <span class="nutshellBlurb"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. do eiusmod tempor incididunt ut labore et dolore magna aliqua. do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
      </span>
      </div>
