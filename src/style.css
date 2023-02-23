@@ -185,3 +185,10 @@ p {
   word-wrap:break-word;
   line-height: 1.6;
 }
+.LinkedInLogo
+{
+  left: 5%;
+  width: 15%;
+  top: 45%;
+  position: absolute;
+}

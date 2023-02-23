@@ -59,6 +59,11 @@ export default function App() {
      </div>
      <div class="quickLinksBox">
       <span class="linksTitle"> Quick Links </span>
+      <a href="https://www.linkedin.com/in/logan-bernthall-1b65851b8"><img
+          src="https://stackblitz.com/files/react-ewga1h/github/LoganBernthall/PortfolioProj/main/src/images/linkedin-square-icon.png"
+          alt="LinkedIn Logo"
+          class="LinkedInLogo"
+        /></a>
      </div>
     
     </div>
