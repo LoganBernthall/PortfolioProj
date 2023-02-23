@@ -1,6 +1,6 @@
 body
 {
-  background-color: #1275D1;
+  background-color: #58A3A7;
   margin: 0;
   font-family: Georgia, serif;
   height: 100%;
@@ -11,7 +11,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #A75C58;
 }
 li {
   float: left;
@@ -41,7 +41,7 @@ p {
   margin: 3%;
   height: 425px;
   width: 400px;
-  background-color: #555;
+  background-color: #A75C58;
   border-radius: 8px;
   position: absolute;
   
@@ -112,7 +112,7 @@ p {
   margin: 3%;
   height: 425px;
   width: 1000px;
-  background-color: #555;
+  background-color :#A75C58;
   border-radius: 8px;
   position: absolute;
 }
@@ -142,7 +142,7 @@ p {
   margin: 3%;
   height: 175px;
   width: 1000px;
-  background-color: #555;
+  background-color: #A75C58;
   border-radius: 8px;
   position: absolute;
 }
@@ -171,7 +171,7 @@ p {
   margin: 3%;
   height: 175px;
   width: 250px;
-  background-color: #555;
+  background-color: #A75C58;
   border-radius: 8px;
   position: absolute;
 }
