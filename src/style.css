@@ -166,10 +166,11 @@ p {
 }
 .quickLinksBox
 {
+  left: 75px;
   top: 500px;
   margin: 3%;
   height: 175px;
-  width: 400px;
+  width: 250px;
   background-color: #555;
   border-radius: 8px;
   position: absolute;
@@ -188,21 +189,21 @@ p {
 .LinkedInLogo
 {
   left: 5%;
-  width: 15%;
+  width: 25%;
   top: 45%;
   position: absolute;
 }
 .GithubLogo
 {
-  left: 25%;
-  width: 15%;
+  left: 35%;
+  width: 25%;
   top: 45%;
   position: absolute;
 }
 .EmailToLogo
 {
-  left: 45%;
-  width: 15%;
+  left: 65%;
+  width: 25%;
   top: 45%;
   position: absolute;
 }
