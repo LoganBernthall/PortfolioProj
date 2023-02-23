@@ -178,9 +178,10 @@ p {
 {
   
   margin: 10px;
-  left: 2%;
-  position: center;
-  font-size: 1.25rem;
+  top: 5%;
+  left: 1%;
+  position: relative;
+  font-size: 1.75rem;
   word-wrap:break-word;
   line-height: 1.6;
 }
