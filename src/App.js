@@ -64,6 +64,11 @@ export default function App() {
           alt="LinkedIn Logo"
           class="LinkedInLogo"
         /></a>
+              <a href="https://github.com/LoganBernthall"><img
+          src="https://stackblitz.com/files/react-ewga1h/github/LoganBernthall/PortfolioProj/main/src/images/github-icon.png"
+          alt="GithubLogo"
+          class="GithubLogo"
+        /></a>
      </div>
     
     </div>
