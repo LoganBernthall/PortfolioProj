@@ -12,7 +12,7 @@ export default function App() {
           </a>
         </li>
         <li>
-          <a href="#news" class="btnRight">
+          <a href="./src/Education.js" class="btnRight">
             Education
           </a>
         </li>
