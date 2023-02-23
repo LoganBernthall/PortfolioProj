@@ -69,6 +69,11 @@ export default function App() {
           alt="GithubLogo"
           class="GithubLogo"
         /></a>
+        <a href="https://github.com/LoganBernthall"><img
+          src="https://stackblitz.com/files/react-ewga1h/github/LoganBernthall/PortfolioProj/main/src/images/email-address-icon.png"
+          alt="EmailLogo"
+          class="EmailToLogo"
+        /></a>
      </div>
     
     </div>
